@@ -37,4 +37,6 @@ For any questions or feedback, please contact us:
 - Phone: 123-456-7890
 
 © 2023 Bookabl. All rights reserved.
-To 
+
+
+                     explore BOOKABL by clicking here https://shreehaari.github.io/BOOKABL/
