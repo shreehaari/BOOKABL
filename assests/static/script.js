@@ -1,5 +1,5 @@
 document.getElementById("search-form").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent form submission
+    event.preventDefault(); 
   
     var searchQuery = document.getElementById("search-input").value.toLowerCase();
     var bookResults = document.getElementById("book-results");
@@ -10,9 +10,9 @@ document.getElementById("search-form").addEventListener("submit", function(event
       var bookAuthor = books[i].getElementsByTagName("p")[0].textContent.toLowerCase();
   
       if (bookTitle.includes(searchQuery) || bookAuthor.includes(searchQuery)) {
-        books[i].style.display = "block"; // Show matching books
+        books[i].style.display = "block"; 
       } else {
-        books[i].style.display = "none"; // Hide non-matching books
+        books[i].style.display = "none"; 
       }
     }
   });
