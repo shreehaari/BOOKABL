@@ -39,4 +39,4 @@ For any questions or feedback, please contact us:
 © 2023 Bookabl. All rights reserved.
 
 
-                     explore BOOKABL by clicking here https://shreehaari.github.io/BOOKABL/
+                     explore BOOKABL by clicking here  https://shreehaari.github.io/BOOKABL/
